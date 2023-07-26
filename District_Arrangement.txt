@@ -1,0 +1,13 @@
+"Bhaktapur",
+"Dhading",
+"Kathmandu",
+"Kavrepalanchok",
+"Lalitpur",
+"Nuwakot",
+"Rasuwa",
+"Sindhupalchok",
+"Dolakha",
+"Ramechhap",
+"Sindhuli",
+"Chitawan",
+"Makwanpur"
