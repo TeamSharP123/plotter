@@ -25,7 +25,7 @@ fig = go.Figure(
 #Update layout
 fig.update_layout(
     mapbox_style = "white-bg", #Decide a style for the map
-    mapbox_zoom = 7.66, #Zoom in scale
+    mapbox_zoom = 10, #Zoom in scale
     mapbox_center = {"lat": 27.7172, "lon": 85.3240}, #Center location of the map
 )
 
